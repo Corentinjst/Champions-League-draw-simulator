@@ -1,0 +1,218 @@
+[
+    {
+        "id": "PSG",
+        "nom": "Paris Saint-Germain",
+        "pays": "FRA",
+        "chapeau": 1
+    },
+    {
+        "id": "RMA",
+        "nom": "Real Madrid",
+        "pays": "ESP",
+        "chapeau": 1
+    },
+    {
+        "id": "MCI",
+        "nom": "Manchester City",
+        "pays": "ENG",
+        "chapeau": 1
+    },
+    {
+        "id": "FCB",
+        "nom": "Bayern München",
+        "pays": "GER",
+        "chapeau": 1
+    },
+    {
+        "id": "LIV",
+        "nom": "Liverpool",
+        "pays": "ENG",
+        "chapeau": 1
+    },
+    {
+        "id": "INT",
+        "nom": "Inter",
+        "pays": "ITA",
+        "chapeau": 1
+    },
+    {
+        "id": "CHE",
+        "nom": "Chelsea",
+        "pays": "ENG",
+        "chapeau": 1
+    },
+    {
+        "id": "BVB",
+        "nom": "Borussia Dortmund",
+        "pays": "GER",
+        "chapeau": 1
+    },
+    {
+        "id": "BAR",
+        "nom": "Barcelona",
+        "pays": "ESP",
+        "chapeau": 1
+    },
+    {
+        "id": "ARS",
+        "nom": "Arsenal",
+        "pays": "ENG",
+        "chapeau": 2
+    },
+    {
+        "id": "LEV",
+        "nom": "Bayer Leverkusen",
+        "pays": "GER",
+        "chapeau": 2
+    },
+    {
+        "id": "ATM",
+        "nom": "Atletico Madrid",
+        "pays": "ESP",
+        "chapeau": 2
+    },
+    {
+        "id": "SLB",
+        "nom": "Benfica",
+        "pays": "POR",
+        "chapeau": 2
+    },
+    {
+        "id": "ATA",
+        "nom": "Atalanta",
+        "pays": "ITA",
+        "chapeau": 2
+    },
+    {
+        "id": "VIL",
+        "nom": "Villarreal",
+        "pays": "ESP",
+        "chapeau": 2
+    },
+    {
+        "id": "JUV",
+        "nom": "Juventus",
+        "pays": "ITA",
+        "chapeau": 2
+    },
+    {
+        "id": "SGE",
+        "nom": "Eintracht Frankfurt",
+        "pays": "GER",
+        "chapeau": 2
+    },
+    {
+        "id": "CLU",
+        "nom": "Club Brugge",
+        "pays": "BEL",
+        "chapeau": 2
+    },
+    {
+        "id": "TOT",
+        "nom": "Tottenham Hotspur",
+        "pays": "ENG",
+        "chapeau": 3
+    },
+    {
+        "id": "PSV",
+        "nom": "PSV Eindhoven",
+        "pays": "NED",
+        "chapeau": 3
+    },
+    {
+        "id": "AJX",
+        "nom": "Ajax Amsterdam",
+        "pays": "NED",
+        "chapeau": 3
+    },
+    {
+        "id": "NAP",
+        "nom": "Napoli",
+        "pays": "ITA",
+        "chapeau": 3
+    },
+    {
+        "id": "SCP",
+        "nom": "Sporting CP",
+        "pays": "POR",
+        "chapeau": 3
+    },
+    {
+        "id": "OLY",
+        "nom": "Olympiacos",
+        "pays": "GRE",
+        "chapeau": 3
+    },
+    {
+        "id": "SLA",
+        "nom": "Slavia Praha",
+        "pays": "CZE",
+        "chapeau": 3
+    },
+    {
+        "id": "BOD",
+        "nom": "Bodø/Glimt",
+        "pays": "NOR",
+        "chapeau": 3
+    },
+    {
+        "id": "OM",
+        "nom": "Marseille",
+        "pays": "FRA",
+        "chapeau": 3
+    },
+    {
+        "id": "FCK",
+        "nom": "Copenhagen",
+        "pays": "DEN",
+        "chapeau": 4
+    },
+    {
+        "id": "ASM",
+        "nom": "Monaco",
+        "pays": "FRA",
+        "chapeau": 4
+    },
+    {
+        "id": "GS",
+        "nom": "Galatasaray",
+        "pays": "TUR",
+        "chapeau": 4
+    },
+    {
+        "id": "USG",
+        "nom": "Union SG",
+        "pays": "BEL",
+        "chapeau": 4
+    },
+    {
+        "id": "QAR",
+        "nom": "Qarabağ",
+        "pays": "AZE",
+        "chapeau": 4
+    },
+    {
+        "id": "ATH",
+        "nom": "Athletic Club",
+        "pays": "ESP",
+        "chapeau": 4
+    },
+    {
+        "id": "NEW",
+        "nom": "Newcastle United",
+        "pays": "ENG",
+        "chapeau": 4
+    },
+    {
+        "id": "PAF",
+        "nom": "Pafos",
+        "pays": "CYP",
+        "chapeau": 4
+    },
+    {
+        "id": "KAI",
+        "nom": "Kairat Almaty",
+        "pays": "KAZ",
+        "chapeau": 4
+    }
+]

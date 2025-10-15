@@ -1,0 +1,218 @@
+[
+    {
+        "id": "RMA",
+        "nom": "Real Madrid",
+        "pays": "ESP",
+        "chapeau": 1
+    },
+    {
+        "id": "MCI",
+        "nom": "Manchester City",
+        "pays": "ENG",
+        "chapeau": 1
+    },
+    {
+        "id": "FCB",
+        "nom": "Bayern München",
+        "pays": "GER",
+        "chapeau": 1
+    },
+    {
+        "id": "PSG",
+        "nom": "Paris Saint-Germain",
+        "pays": "FRA",
+        "chapeau": 1
+    },
+    {
+        "id": "LIV",
+        "nom": "Liverpool",
+        "pays": "ENG",
+        "chapeau": 1
+    },
+    {
+        "id": "INT",
+        "nom": "Inter",
+        "pays": "ITA",
+        "chapeau": 1
+    },
+    {
+        "id": "BVB",
+        "nom": "Borussia Dortmund",
+        "pays": "GER",
+        "chapeau": 1
+    },
+    {
+        "id": "RBL",
+        "nom": "RB Leipzig",
+        "pays": "GER",
+        "chapeau": 1
+    },
+    {
+        "id": "BAR",
+        "nom": "Barcelona",
+        "pays": "ESP",
+        "chapeau": 1
+    },
+    {
+        "id": "LEV",
+        "nom": "Bayer Leverkusen",
+        "pays": "GER",
+        "chapeau": 2
+    },
+    {
+        "id": "ATM",
+        "nom": "Atlético de Madrid",
+        "pays": "ESP",
+        "chapeau": 2
+    },
+    {
+        "id": "ATA",
+        "nom": "Atalanta",
+        "pays": "ITA",
+        "chapeau": 2
+    },
+    {
+        "id": "JUV",
+        "nom": "Juventus",
+        "pays": "ITA",
+        "chapeau": 2
+    },
+    {
+        "id": "SLB",
+        "nom": "Benfica",
+        "pays": "POR",
+        "chapeau": 2
+    },
+    {
+        "id": "ARS",
+        "nom": "Arsenal",
+        "pays": "ENG",
+        "chapeau": 2
+    },
+    {
+        "id": "CLU",
+        "nom": "Club Brugge",
+        "pays": "BEL",
+        "chapeau": 2
+    },
+    {
+        "id": "SHK",
+        "nom": "Shakhtar Donetsk",
+        "pays": "UKR",
+        "chapeau": 2
+    },
+    {
+        "id": "ACM",
+        "nom": "AC Milan",
+        "pays": "ITA",
+        "chapeau": 2
+    },
+    {
+        "id": "FEY",
+        "nom": "Feyenoord",
+        "pays": "NED",
+        "chapeau": 3
+    },
+    {
+        "id": "SCP",
+        "nom": "Sporting CP",
+        "pays": "POR",
+        "chapeau": 3
+    },
+    {
+        "id": "PSV",
+        "nom": "PSV Eindhoven",
+        "pays": "NED",
+        "chapeau": 3
+    },
+    {
+        "id": "DZG",
+        "nom": "GNK Dinamo",
+        "pays": "CRO",
+        "chapeau": 3
+    },
+    {
+        "id": "RBS",
+        "nom": "Salzburg",
+        "pays": "AUT",
+        "chapeau": 3
+    },
+    {
+        "id": "LIL",
+        "nom": "Lille",
+        "pays": "FRA",
+        "chapeau": 3
+    },
+    {
+        "id": "CZV",
+        "nom": "Crvena Zvezda",
+        "pays": "SRB",
+        "chapeau": 3
+    },
+    {
+        "id": "YB",
+        "nom": "Young Boys",
+        "pays": "SUI",
+        "chapeau": 3
+    },
+    {
+        "id": "CEL",
+        "nom": "Celtic",
+        "pays": "SCO",
+        "chapeau": 3
+    },
+    {
+        "id": "SLO",
+        "nom": "Slovan Bratislava",
+        "pays": "SVK",
+        "chapeau": 4
+    },
+    {
+        "id": "ASM",
+        "nom": "Monaco",
+        "pays": "FRA",
+        "chapeau": 4
+    },
+    {
+        "id": "SPA",
+        "nom": "Sparta Praha",
+        "pays": "CZE",
+        "chapeau": 4
+    },
+    {
+        "id": "AVL",
+        "nom": "Aston Villa",
+        "pays": "ENG",
+        "chapeau": 4
+    },
+    {
+        "id": "BOL",
+        "nom": "Bologna",
+        "pays": "ITA",
+        "chapeau": 4
+    },
+    {
+        "id": "GIR",
+        "nom": "Girona",
+        "pays": "ESP",
+        "chapeau": 4
+    },
+    {
+        "id": "STU",
+        "nom": "Stuttgart",
+        "pays": "GER",
+        "chapeau": 4
+    },
+    {
+        "id": "GRZ",
+        "nom": "Sturm Graz",
+        "pays": "AUT",
+        "chapeau": 4
+    },
+    {
+        "id": "BRE",
+        "nom": "Brest",
+        "pays": "FRA",
+        "chapeau": 4
+    }
+]
