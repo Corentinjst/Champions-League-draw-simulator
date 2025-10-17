@@ -1,8 +1,8 @@
 from dataclasses import dataclass, field
 from typing import List, Dict, Set, Tuple, Optional
 from collections import defaultdict
-from club import Club
-from match import Match
+from .club import Club
+from .match import Match
 
 
 @dataclass
