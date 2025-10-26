@@ -1,0 +1,725 @@
+{
+  "season": "2025-26",
+  "matches": [
+    {
+      "club_home_id": "AJX",
+      "club_away_id": "INT",
+      "journee": 1
+    },
+    {
+      "club_home_id": "ARS",
+      "club_away_id": "FCB",
+      "journee": 1
+    },
+    {
+      "club_home_id": "ATA",
+      "club_away_id": "CLU",
+      "journee": 1
+    },
+    {
+      "club_home_id": "ATH",
+      "club_away_id": "SCP",
+      "journee": 1
+    },
+    {
+      "club_home_id": "ATM",
+      "club_away_id": "BOD",
+      "journee": 1
+    },
+    {
+      "club_home_id": "BAR",
+      "club_away_id": "SGE",
+      "journee": 1
+    },
+    {
+      "club_home_id": "FCK",
+      "club_away_id": "LEV",
+      "journee": 1
+    },
+    {
+      "club_home_id": "GS",
+      "club_away_id": "LIV",
+      "journee": 1
+    },
+    {
+      "club_home_id": "KAI",
+      "club_away_id": "RMA",
+      "journee": 1
+    },
+    {
+      "club_home_id": "MCI",
+      "club_away_id": "BVB",
+      "journee": 1
+    },
+    {
+      "club_home_id": "NAP",
+      "club_away_id": "CHE",
+      "journee": 1
+    },
+    {
+      "club_home_id": "OLY",
+      "club_away_id": "PSV",
+      "journee": 1
+    },
+    {
+      "club_home_id": "PAF",
+      "club_away_id": "ASM",
+      "journee": 1
+    },
+    {
+      "club_home_id": "PSG",
+      "club_away_id": "NEW",
+      "journee": 1
+    },
+    {
+      "club_home_id": "SLB",
+      "club_away_id": "QAR",
+      "journee": 1
+    },
+    {
+      "club_home_id": "TOT",
+      "club_away_id": "SLA",
+      "journee": 1
+    },
+    {
+      "club_home_id": "USG",
+      "club_away_id": "OM",
+      "journee": 1
+    },
+    {
+      "club_home_id": "VIL",
+      "club_away_id": "JUV",
+      "journee": 1
+    },
+    {
+      "club_home_id": "AJX",
+      "club_away_id": "SLB",
+      "journee": 2
+    },
+    {
+      "club_home_id": "ASM",
+      "club_away_id": "TOT",
+      "journee": 2
+    },
+    {
+      "club_home_id": "ATM",
+      "club_away_id": "USG",
+      "journee": 2
+    },
+    {
+      "club_home_id": "BAR",
+      "club_away_id": "OLY",
+      "journee": 2
+    },
+    {
+      "club_home_id": "BOD",
+      "club_away_id": "JUV",
+      "journee": 2
+    },
+    {
+      "club_home_id": "BVB",
+      "club_away_id": "ATH",
+      "journee": 2
+    },
+    {
+      "club_home_id": "CLU",
+      "club_away_id": "ARS",
+      "journee": 2
+    },
+    {
+      "club_home_id": "FCK",
+      "club_away_id": "NAP",
+      "journee": 2
+    },
+    {
+      "club_home_id": "INT",
+      "club_away_id": "SLA",
+      "journee": 2
+    },
+    {
+      "club_home_id": "KAI",
+      "club_away_id": "PAF",
+      "journee": 2
+    },
+    {
+      "club_home_id": "LEV",
+      "club_away_id": "VIL",
+      "journee": 2
+    },
+    {
+      "club_home_id": "LIV",
+      "club_away_id": "RMA",
+      "journee": 2
+    },
+    {
+      "club_home_id": "MCI",
+      "club_away_id": "GS",
+      "journee": 2
+    },
+    {
+      "club_home_id": "OM",
+      "club_away_id": "NEW",
+      "journee": 2
+    },
+    {
+      "club_home_id": "PSV",
+      "club_away_id": "FCB",
+      "journee": 2
+    },
+    {
+      "club_home_id": "QAR",
+      "club_away_id": "CHE",
+      "journee": 2
+    },
+    {
+      "club_home_id": "SCP",
+      "club_away_id": "PSG",
+      "journee": 2
+    },
+    {
+      "club_home_id": "SGE",
+      "club_away_id": "ATA",
+      "journee": 2
+    },
+    {
+      "club_home_id": "AJX",
+      "club_away_id": "OLY",
+      "journee": 3
+    },
+    {
+      "club_home_id": "ASM",
+      "club_away_id": "MCI",
+      "journee": 3
+    },
+    {
+      "club_home_id": "ATA",
+      "club_away_id": "SLA",
+      "journee": 3
+    },
+    {
+      "club_home_id": "ATH",
+      "club_away_id": "ARS",
+      "journee": 3
+    },
+    {
+      "club_home_id": "BOD",
+      "club_away_id": "TOT",
+      "journee": 3
+    },
+    {
+      "club_home_id": "BVB",
+      "club_away_id": "VIL",
+      "journee": 3
+    },
+    {
+      "club_home_id": "CHE",
+      "club_away_id": "SLB",
+      "journee": 3
+    },
+    {
+      "club_home_id": "FCK",
+      "club_away_id": "KAI",
+      "journee": 3
+    },
+    {
+      "club_home_id": "GS",
+      "club_away_id": "ATM",
+      "journee": 3
+    },
+    {
+      "club_home_id": "JUV",
+      "club_away_id": "PAF",
+      "journee": 3
+    },
+    {
+      "club_home_id": "LEV",
+      "club_away_id": "PSV",
+      "journee": 3
+    },
+    {
+      "club_home_id": "LIV",
+      "club_away_id": "QAR",
+      "journee": 3
+    },
+    {
+      "club_home_id": "NAP",
+      "club_away_id": "SGE",
+      "journee": 3
+    },
+    {
+      "club_home_id": "NEW",
+      "club_away_id": "BAR",
+      "journee": 3
+    },
+    {
+      "club_home_id": "PSG",
+      "club_away_id": "FCB",
+      "journee": 3
+    },
+    {
+      "club_home_id": "RMA",
+      "club_away_id": "OM",
+      "journee": 3
+    },
+    {
+      "club_home_id": "SCP",
+      "club_away_id": "CLU",
+      "journee": 3
+    },
+    {
+      "club_home_id": "USG",
+      "club_away_id": "INT",
+      "journee": 3
+    },
+    {
+      "club_home_id": "AJX",
+      "club_away_id": "GS",
+      "journee": 4
+    },
+    {
+      "club_home_id": "ARS",
+      "club_away_id": "OLY",
+      "journee": 4
+    },
+    {
+      "club_home_id": "ATA",
+      "club_away_id": "CHE",
+      "journee": 4
+    },
+    {
+      "club_home_id": "ATM",
+      "club_away_id": "SGE",
+      "journee": 4
+    },
+    {
+      "club_home_id": "BAR",
+      "club_away_id": "PSG",
+      "journee": 4
+    },
+    {
+      "club_home_id": "BOD",
+      "club_away_id": "ASM",
+      "journee": 4
+    },
+    {
+      "club_home_id": "FCB",
+      "club_away_id": "USG",
+      "journee": 4
+    },
+    {
+      "club_home_id": "INT",
+      "club_away_id": "LIV",
+      "journee": 4
+    },
+    {
+      "club_home_id": "JUV",
+      "club_away_id": "BVB",
+      "journee": 4
+    },
+    {
+      "club_home_id": "KAI",
+      "club_away_id": "CLU",
+      "journee": 4
+    },
+    {
+      "club_home_id": "NAP",
+      "club_away_id": "QAR",
+      "journee": 4
+    },
+    {
+      "club_home_id": "NEW",
+      "club_away_id": "PSV",
+      "journee": 4
+    },
+    {
+      "club_home_id": "PAF",
+      "club_away_id": "VIL",
+      "journee": 4
+    },
+    {
+      "club_home_id": "RMA",
+      "club_away_id": "MCI",
+      "journee": 4
+    },
+    {
+      "club_home_id": "SCP",
+      "club_away_id": "OM",
+      "journee": 4
+    },
+    {
+      "club_home_id": "SLA",
+      "club_away_id": "ATH",
+      "journee": 4
+    },
+    {
+      "club_home_id": "SLB",
+      "club_away_id": "LEV",
+      "journee": 4
+    },
+    {
+      "club_home_id": "TOT",
+      "club_away_id": "FCK",
+      "journee": 4
+    },
+    {
+      "club_home_id": "ATH",
+      "club_away_id": "QAR",
+      "journee": 5
+    },
+    {
+      "club_home_id": "BAR",
+      "club_away_id": "FCK",
+      "journee": 5
+    },
+    {
+      "club_home_id": "BVB",
+      "club_away_id": "BOD",
+      "journee": 5
+    },
+    {
+      "club_home_id": "CHE",
+      "club_away_id": "AJX",
+      "journee": 5
+    },
+    {
+      "club_home_id": "CLU",
+      "club_away_id": "ASM",
+      "journee": 5
+    },
+    {
+      "club_home_id": "GS",
+      "club_away_id": "USG",
+      "journee": 5
+    },
+    {
+      "club_home_id": "INT",
+      "club_away_id": "KAI",
+      "journee": 5
+    },
+    {
+      "club_home_id": "JUV",
+      "club_away_id": "SCP",
+      "journee": 5
+    },
+    {
+      "club_home_id": "LEV",
+      "club_away_id": "NEW",
+      "journee": 5
+    },
+    {
+      "club_home_id": "OLY",
+      "club_away_id": "RMA",
+      "journee": 5
+    },
+    {
+      "club_home_id": "OM",
+      "club_away_id": "LIV",
+      "journee": 5
+    },
+    {
+      "club_home_id": "PAF",
+      "club_away_id": "FCB",
+      "journee": 5
+    },
+    {
+      "club_home_id": "PSG",
+      "club_away_id": "ATA",
+      "journee": 5
+    },
+    {
+      "club_home_id": "PSV",
+      "club_away_id": "ATM",
+      "journee": 5
+    },
+    {
+      "club_home_id": "SGE",
+      "club_away_id": "TOT",
+      "journee": 5
+    },
+    {
+      "club_home_id": "SLA",
+      "club_away_id": "ARS",
+      "journee": 5
+    },
+    {
+      "club_home_id": "SLB",
+      "club_away_id": "NAP",
+      "journee": 5
+    },
+    {
+      "club_home_id": "VIL",
+      "club_away_id": "MCI",
+      "journee": 5
+    },
+    {
+      "club_home_id": "ARS",
+      "club_away_id": "ATM",
+      "journee": 6
+    },
+    {
+      "club_home_id": "ATA",
+      "club_away_id": "ATH",
+      "journee": 6
+    },
+    {
+      "club_home_id": "BVB",
+      "club_away_id": "INT",
+      "journee": 6
+    },
+    {
+      "club_home_id": "CLU",
+      "club_away_id": "BAR",
+      "journee": 6
+    },
+    {
+      "club_home_id": "FCB",
+      "club_away_id": "CHE",
+      "journee": 6
+    },
+    {
+      "club_home_id": "GS",
+      "club_away_id": "BOD",
+      "journee": 6
+    },
+    {
+      "club_home_id": "JUV",
+      "club_away_id": "SLB",
+      "journee": 6
+    },
+    {
+      "club_home_id": "KAI",
+      "club_away_id": "OLY",
+      "journee": 6
+    },
+    {
+      "club_home_id": "LIV",
+      "club_away_id": "PSV",
+      "journee": 6
+    },
+    {
+      "club_home_id": "MCI",
+      "club_away_id": "LEV",
+      "journee": 6
+    },
+    {
+      "club_home_id": "NAP",
+      "club_away_id": "SCP",
+      "journee": 6
+    },
+    {
+      "club_home_id": "OM",
+      "club_away_id": "AJX",
+      "journee": 6
+    },
+    {
+      "club_home_id": "PAF",
+      "club_away_id": "SLA",
+      "journee": 6
+    },
+    {
+      "club_home_id": "PSG",
+      "club_away_id": "TOT",
+      "journee": 6
+    },
+    {
+      "club_home_id": "QAR",
+      "club_away_id": "SGE",
+      "journee": 6
+    },
+    {
+      "club_home_id": "RMA",
+      "club_away_id": "ASM",
+      "journee": 6
+    },
+    {
+      "club_home_id": "USG",
+      "club_away_id": "NEW",
+      "journee": 6
+    },
+    {
+      "club_home_id": "VIL",
+      "club_away_id": "FCK",
+      "journee": 6
+    },
+    {
+      "club_home_id": "ASM",
+      "club_away_id": "JUV",
+      "journee": 7
+    },
+    {
+      "club_home_id": "CHE",
+      "club_away_id": "BAR",
+      "journee": 7
+    },
+    {
+      "club_home_id": "FCB",
+      "club_away_id": "CLU",
+      "journee": 7
+    },
+    {
+      "club_home_id": "FCK",
+      "club_away_id": "BVB",
+      "journee": 7
+    },
+    {
+      "club_home_id": "INT",
+      "club_away_id": "ARS",
+      "journee": 7
+    },
+    {
+      "club_home_id": "LEV",
+      "club_away_id": "PSG",
+      "journee": 7
+    },
+    {
+      "club_home_id": "LIV",
+      "club_away_id": "ATM",
+      "journee": 7
+    },
+    {
+      "club_home_id": "MCI",
+      "club_away_id": "NAP",
+      "journee": 7
+    },
+    {
+      "club_home_id": "NEW",
+      "club_away_id": "ATH",
+      "journee": 7
+    },
+    {
+      "club_home_id": "OLY",
+      "club_away_id": "PAF",
+      "journee": 7
+    },
+    {
+      "club_home_id": "OM",
+      "club_away_id": "ATA",
+      "journee": 7
+    },
+    {
+      "club_home_id": "PSV",
+      "club_away_id": "USG",
+      "journee": 7
+    },
+    {
+      "club_home_id": "QAR",
+      "club_away_id": "AJX",
+      "journee": 7
+    },
+    {
+      "club_home_id": "SCP",
+      "club_away_id": "KAI",
+      "journee": 7
+    },
+    {
+      "club_home_id": "SGE",
+      "club_away_id": "GS",
+      "journee": 7
+    },
+    {
+      "club_home_id": "SLA",
+      "club_away_id": "BOD",
+      "journee": 7
+    },
+    {
+      "club_home_id": "SLB",
+      "club_away_id": "RMA",
+      "journee": 7
+    },
+    {
+      "club_home_id": "TOT",
+      "club_away_id": "VIL",
+      "journee": 7
+    },
+    {
+      "club_home_id": "ARS",
+      "club_away_id": "KAI",
+      "journee": 8
+    },
+    {
+      "club_home_id": "ASM",
+      "club_away_id": "GS",
+      "journee": 8
+    },
+    {
+      "club_home_id": "ATH",
+      "club_away_id": "PSG",
+      "journee": 8
+    },
+    {
+      "club_home_id": "ATM",
+      "club_away_id": "INT",
+      "journee": 8
+    },
+    {
+      "club_home_id": "BOD",
+      "club_away_id": "MCI",
+      "journee": 8
+    },
+    {
+      "club_home_id": "CHE",
+      "club_away_id": "PAF",
+      "journee": 8
+    },
+    {
+      "club_home_id": "CLU",
+      "club_away_id": "OM",
+      "journee": 8
+    },
+    {
+      "club_home_id": "FCB",
+      "club_away_id": "SCP",
+      "journee": 8
+    },
+    {
+      "club_home_id": "NEW",
+      "club_away_id": "SLB",
+      "journee": 8
+    },
+    {
+      "club_home_id": "OLY",
+      "club_away_id": "LEV",
+      "journee": 8
+    },
+    {
+      "club_home_id": "PSV",
+      "club_away_id": "NAP",
+      "journee": 8
+    },
+    {
+      "club_home_id": "QAR",
+      "club_away_id": "FCK",
+      "journee": 8
+    },
+    {
+      "club_home_id": "RMA",
+      "club_away_id": "JUV",
+      "journee": 8
+    },
+    {
+      "club_home_id": "SGE",
+      "club_away_id": "LIV",
+      "journee": 8
+    },
+    {
+      "club_home_id": "SLA",
+      "club_away_id": "BAR",
+      "journee": 8
+    },
+    {
+      "club_home_id": "TOT",
+      "club_away_id": "BVB",
+      "journee": 8
+    },
+    {
+      "club_home_id": "USG",
+      "club_away_id": "ATA",
+      "journee": 8
+    },
+    {
+      "club_home_id": "VIL",
+      "club_away_id": "AJX",
+      "journee": 8
+    }
+  ]
+}
